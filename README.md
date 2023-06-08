@@ -5,8 +5,8 @@ This is a mini-project done during the 3rd semester of college to strengthen our
 
 Modules:
 There are 2 modules:
-User Login
-Admin Login
+   User Login
+   Admin Login
 
 User Login:
 Here new user can create a user-id, or the existing customers can sign-in using their existing ids. In new user creation, the database is instantly updated and the user is redirected to sign-in option. Then the users can view the Trains listed and book the ticket to their destination.
